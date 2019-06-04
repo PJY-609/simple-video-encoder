@@ -26,7 +26,7 @@ python main.py
 
 ***
 ## MVC pattern in Python
-It is my first time to use MVC pattern to write a GUI. [tutorial](https://www.giacomodebidda.com/mvc-pattern-in-python-introduction-and-basicmodel/)gives a very simple and elegant mini-example to explain what MVC pattern is.  
+It is my first time to use MVC pattern to write a GUI. [tutorial](https://www.giacomodebidda.com/mvc-pattern-in-python-introduction-and-basicmodel/) gives a neat mini-example to explain what MVC pattern is.  
 Download these three .py files and run them can give a clear sense of MVC pattern [basics_backend.py](https://github.com/yujuezhao/simple-video-encoder/blob/master/video_encoder/Others/basic_backend.py), [model_view_controller.py](https://github.com/yujuezhao/simple-video-encoder/blob/master/video_encoder/Others/model_view_controller.py), [mvc_exceptions.py](https://github.com/yujuezhao/simple-video-encoder/blob/master/video_encoder/Others/mvc_exceptions.py).
 ***
 ## Exceptions handling 
