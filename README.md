@@ -12,5 +12,15 @@ a simple H.264 video encoder by PyQt5
 > cd .\video_encoder  
 python main.py
 
-
+**user guide**
+1. File->Open->select the input video file
+<img src='https://raw.githubusercontent.com/yujuezhao/simple-video-encoder/master/images/1.png' width='60%'>
+<img src='https://raw.githubusercontent.com/yujuezhao/simple-video-encoder/master/images/3.png' width='60%'>
+2. Settings->Set H264 Parameters
+<img src='https://raw.githubusercontent.com/yujuezhao/simple-video-encoder/master/images/4.png' width='60%'>
+<img src='https://raw.githubusercontent.com/yujuezhao/simple-video-encoder/master/images/5.png' width='60%'>
+3. Encode->Begin Encode->type output filename
+<img src='https://raw.githubusercontent.com/yujuezhao/simple-video-encoder/master/images/6.png' width='60%'>
+4. Result (CRF=40)
+<img src='https://raw.githubusercontent.com/yujuezhao/simple-video-encoder/master/images/7.png' width='60%'>
 
