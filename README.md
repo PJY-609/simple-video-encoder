@@ -32,6 +32,9 @@ Download these three .py files and run them can give a clear sense of MVC patter
 2. [model_view_controller.py](https://github.com/yujuezhao/simple-video-encoder/blob/master/video_encoder/Others/model_view_controller.py)  
 3. [mvc_exceptions.py](https://github.com/yujuezhao/simple-video-encoder/blob/master/video_encoder/Others/mvc_exceptions.py).
 ***
+## A PyQt example of video player
+see [tutorial](https://pythonprogramminglanguage.com/pyqt5-video-widget/)
+***
 ## Exceptions handling 
 I also learn something of exceptions handling in python. Thanks to the contributors in stackoverflow, my [problem](https://stackoverflow.com/questions/56411990/how-to-manage-exceptions-correctly-in-pyqt/56432762#56432762) could be tackled properly.
 Here is my final solution,
