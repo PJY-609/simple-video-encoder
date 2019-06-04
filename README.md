@@ -24,3 +24,9 @@ python main.py
 4. Result (CRF=40)
 <img src='https://raw.githubusercontent.com/yujuezhao/simple-video-encoder/master/images/7.png' width='30%'>
 
+***
+## MVC Model in Python
+[tutorial](https://www.giacomodebidda.com/mvc-pattern-in-python-introduction-and-basicmodel/)  
+[basics_backend.py](https://github.com/yujuezhao/simple-video-encoder/blob/master/video_encoder/Others/basic_backend.py  
+[model_view_controller.py](https://github.com/yujuezhao/simple-video-encoder/blob/master/video_encoder/Others/model_view_controller.py)  
+[mvc_exceptions.py](https://github.com/yujuezhao/simple-video-encoder/blob/master/video_encoder/Others/mvc_exceptions.py)
